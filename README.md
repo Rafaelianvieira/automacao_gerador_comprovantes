@@ -1,1 +1,0 @@
-automacao_gerador_comprovates
